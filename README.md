@@ -7,7 +7,9 @@ indicated in the Client side into the Server side.
 As the server code must be operating at first.
 # Run "TCPClient.java"
 As the Client initaites the connection with the Server.
-The point of this program is that the client sends in a message (String) and gets replay with the same message but in UpperCase.
+The point of this program is that the client sends in a message (String) and gets reply with the same message but in UpperCase.
+
+
 
 
 
